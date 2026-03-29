@@ -5,7 +5,7 @@ import re
 import os
 
 # ── API KEY ───────────────────────────────────────────────────
-RAPIDAPI_KEY  = "489c3b82c4mshf8834aabeed8423p1389c1jsn9b1f895c9a87"
+RAPIDAPI_KEY  =YOUR_API_TWITTER
 RAPIDAPI_HOST = "twitter241.p.rapidapi.com"
 
 HEADERS = {
