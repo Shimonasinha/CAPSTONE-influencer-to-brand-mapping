@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # PASTE YOUR TOKEN HERE (from Step 1)
-APIFY_TOKEN = "apify_api_ndOF4FeT0ZCDkh3lFqZcQU6ELmDndz3iu497"
+APIFY_TOKEN = YOUR_API_TWITTER
 
 # Load YouTube channels
 print(" Loading YouTube channels...")
